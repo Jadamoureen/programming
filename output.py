@@ -4,10 +4,7 @@
 
 print("Hello World!")
 
-'''Assigning "Hello World!" to the variable my_text
-when printing a variable with print function one shouldn't use quotes but if you're 
-printing a string directly with print()function then quotes should be used
-'''
+# Using the print function with a variable 
 
 my_text = "Hello World!"
 print(my_text)

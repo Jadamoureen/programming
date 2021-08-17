@@ -6,14 +6,43 @@
 
 
 
+Printing in PHP
+---------------
+
+
+Printing in Js
+--------------
+
+
+
+
 Printing in Python 
 ------------------
 
 Python programmers prefer to be explicit, to choose simple over complex and to maximize readability. 
 
+*print()function*
 
-Printing in Java 
-----------------
+print() is a function in Python 3. More specifically, it’s a built-in function, which means that you don’t need to import it from anywhere
+
+
+Assigning **"Hello World!" to the variable my_text**
+when printing a variable with print function one shouldn't use quotes but if you're **printing a string directly with print()function then quotes should be used**
+
+
+```my_text = "Hello World!"
+print(my_text)```
+
+ Redefine print() so that it doesn’t append a trailing newline. At the same time, you wanted to rename the original function to something like println()
+
+ ```println('Hello')```
+
+ ```print('Hello\n')```
+
+ 
+
+Printing in Java
+-----------------
 
 > System.out is the name of the an object that knows how to display or print characters in a terminal window 
 
